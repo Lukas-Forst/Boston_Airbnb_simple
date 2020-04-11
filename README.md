@@ -31,5 +31,6 @@ A simple analysis of  the boston airbnb housing data which was used for a medium
 - tree
 - xgboost
 
+link to blogpost: https://medium.com/@lukas.forst48_45317/a-short-step-by-step-guide-on-how-to-approach-a-dataset-333b9f56bebc
 
 Data can be downloaded from http://insideairbnb.com/get-the-data.html
